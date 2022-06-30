@@ -1,0 +1,40 @@
+/*
+Nome: Igor Prado Medeiros Martins
+Matrícula: 202002442
+Lista: 2
+Exercício: 1
+*/
+programa
+{
+	funcao inicio()
+	{
+inteiro A
+logico par
+escreva("Digite um número")
+leia(A)
+
+
+
+  se (A % 2 != 0)
+            {
+                escreva("O número digitado é ímpar")
+            }
+
+          senao 
+          escreva("O número digitado é par")
+	}
+
+	
+}
+
+/* $$$ Portugol Studio $$$ 
+ * 
+ * Esta seção do arquivo guarda informações do Portugol Studio.
+ * Você pode apagá-la se estiver utilizando outro editor.
+ * 
+ * @POSICAO-CURSOR = 79; 
+ * @PONTOS-DE-PARADA = ;
+ * @SIMBOLOS-INSPECIONADOS = ;
+ * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
+ * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
+ */
